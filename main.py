@@ -1,9 +1,9 @@
-"""ai-happy-01 entry: emit one happy image.
+"""ai-happy-01 entry: emit one happy image (otters holding paws iteration).
 
 Stdlib only, no network, deterministic: the program copies the exact bytes
 of entry.png beside it to $MAKEFUN_OUTPUT_DIR/entry.png on every run.
 
-Gate constraints (verified): the image is a whole PNG of 1,023,686 bytes
+Gate constraints (verified): the image is a whole PNG of 939,404 bytes
 (at most 1 MiB) and 784 by 784 pixels (at most 1024 by 1024).
 """
 
